@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 .cid-qSnQ5WCmph button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1773,6 +1773,12 @@ body {
 .cid-qSnQ7JFOQV .mbr-section-btn B {
   color: #ffffff;
 }
+#custom-html-l {
+  /* Type valid CSS here */
+}
+#custom-html-l .my-image {
+  width: 100%;
+}
 .cid-qSnStr7VWk {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1905,6 +1911,44 @@ body {
 .cid-qSnSAsZRZz .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
+}
+.cid-qU0VVKvknu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qU0VVKvknu .card-img {
+  background-color: #fff;
+}
+.cid-qU0VVKvknu .card-box {
+  padding: 2rem;
+}
+.cid-qU0VVKvknu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qU0VVKvknu p {
+  text-align: left;
+}
+.cid-qU0VVKvknu .mbr-text {
+  color: #767676;
+}
+.cid-qU0VVKvknu .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qU0VVKvknu .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qU0VVKvknu .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
 }
 .cid-qSnSOgij7L {
   padding-top: 90px;
