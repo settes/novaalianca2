@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nova Aliança",
-    "currentPage": "page1.html",
+    "currentPage": "teste.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1145,9 +1145,9 @@
         }
       ]
     },
-    "page1.html": {
+    "teste.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Teste",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
